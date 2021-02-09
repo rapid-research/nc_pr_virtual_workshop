@@ -1,6 +1,7 @@
 layout: page
 title: "DAY 1 - SESSION 1"
-permalink: /schedule/
+permalink: /nc_pr_virtual_workshopping/schedule/
+
 
 # DAY 1 - SESSION 1 [3 hours]
 
