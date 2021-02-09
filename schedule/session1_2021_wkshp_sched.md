@@ -1,3 +1,7 @@
+layout: page
+title: "DAY 1 - SESSION 1"
+permalink: /schedule/
+
 # DAY 1 - SESSION 1 [3 hours]
 
 
