@@ -9,6 +9,7 @@ Topic | Lead | What
 Workshop Project Goals					| Christina, Chris	 |	
 Participant Goals / Getting to Know One Another		| Elaine, Graciela, Jill |
 Data Sleuthing: Episode 1 				| Graciela		 | Puerto Rico Post-Hurricane Maria detective story about unexpected drinking water contaminants
+Discussion: Challenges in Post-Disaster Data Collection	| Elaine, Graciela, Jill |
 Hands On: Introduction to HydroShare?	|			 | Search, retrieve using Maria data as an example
 Hands On: Workshop Glossary		| 			 |
 Hands On: Introduction to Git Hub?	|			 |
