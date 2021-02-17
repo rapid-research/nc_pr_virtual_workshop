@@ -2,7 +2,7 @@
 
 Here you will find access to almost all of the relevant content for the workshop.  Feel free to browse around and try things.  Let us know what you think!
 
-# [Workshop Topics by Session](https://rapid-research.github.io/nc_pr_virtual_workshopping/schedule/workshop_topic_sched/)
+# [Workshop Topics by Session](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/workshop_topic_sched.html)
 
 # Detailed Workshop Schedule
 ## [Session 1](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session1_2021_wkshp_sched.html)
