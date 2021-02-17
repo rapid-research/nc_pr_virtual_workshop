@@ -1,6 +1,6 @@
 title: Rapid Water Workshop
 logo: /assets/img/hrr_logo.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Workshop website.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
