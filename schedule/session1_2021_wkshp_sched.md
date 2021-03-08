@@ -4,7 +4,7 @@
 
 
 ## Homework ahead
-* Prep 1 bio slide
+* [Prep 1 bio slide]([Workshop Topics by Session](https://rapid-research.github.io/nc_pr_virtual_workshop/homework/workshop_bios.html)
 
 ## Roles
 * Moderator: 
@@ -19,9 +19,7 @@
    <td><strong><span style="text-decoration:underline;">Leader</span></strong>
    </td>
    <td><strong><span style="text-decoration:underline;">Time</span></strong>
-   </td>
-  </tr>
-  <tr>
+ 
    <td colspan="3" ><strong>Welcome</strong>
    </td>
   </tr>
@@ -52,8 +50,7 @@
 
 <li>Where to find help
 </li>
-</ul>
-   </td>
+
    <td>
    </td>
    <td>
