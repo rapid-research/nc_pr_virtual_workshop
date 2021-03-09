@@ -21,17 +21,17 @@ Session I, Part 1 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | ------- 
 Welcome | Christina B | 5 mins 
 Reiterate Code of Conduct | Christina B | 5 mins 
-Event Logistics | Chris L | 5 mins 
-Goals for this Workshop Session | Christina B | 10 mins 
-Refresher on Workshop Objectives | Christina and Elaine | 10 mins 
-Introductions | Graciela | 30 mins 
+[Workshop Logistics](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_logistics.html) | Chris L | 5 mins 
+[Goals for this Workshop Session](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionI_goals.html) | Christina B | 10 mins 
+[Refresher on Workshop Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_objectives.html) | Christina and Elaine | 10 mins 
+[Introductions](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/participant_introductions.html) | Elaine and Graciela | 30 mins 
 
 ## Introduction to Data Science and Cyberinfrastructure
 
 Session I, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-So You Think You Want to Be a Data Scientist... | Chris L | 20 mins 
-Cyberinfrastructure: What's in a name?! | Chris L | 20 mins 
+[So You Think You Want to Be a Data Scientist...](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_datasci.html) | Chris L | 20 mins 
+[Cyberinfrastructure: What's in a name?!](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html) | Chris L | 20 mins 
 
 ### Objectives and Concepts
 * What is ‘Data Science’??
