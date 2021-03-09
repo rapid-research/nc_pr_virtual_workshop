@@ -39,11 +39,12 @@ Session I, Part 2 Agenda Items | Leader | Time
 [Cyberinfrastructure: What's in a name?!](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html) | Chris L | 20 mins 
 
 ## Session I, Part 3: Summary, Wrap-up, What's Next
+
 Session I, Part 3 Agenda Items | Leader | Time 
----------------------------------------- | --------------- | -------
-Summary  | who? | 5 mins
+---------------------------------------- | --------------- | ------- 
+Summary  | who? | 5 mins 
 Wrap-up | who? | 5 mins 
-What's Next | who? | 5 mins
+What's Next | who? | 5 mins 
 
 ## Cyberinfrastructure Labs Used and/or referenced for this session:
 * Lab 1
