@@ -28,13 +28,14 @@ Reiterate Code of Conduct | Christina B | 5 mins
 [Introductions](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/participant_introductions.html) | Elaine and Graciela | 30 mins 
 
 ## Session I, Part 2: Introduction to Data Science and Cyberinfrastructure
+
+### [Session I, Part 2 Objectives and Concepts](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html#objectives-and-concepts)
+
 Session I, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 [Data Sleuthing: Episode 1](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/data_sleuth_episode1.html) | Graciela | 20 mins
 [So You Think You Want to Be a Data Scientist...](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_datasci.html) | Chris L | 20 mins 
 [Cyberinfrastructure: What's in a name?!](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html) | Chris L | 20 mins 
-
-### [Session I, Part 2 Objectives and Concepts](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html#objectives-and-concepts)
 
 ## Session I, Part 3: Summary, Wrap-up, What's Next
 Session I, Part 3 Agenda Items | Leader | Time 
