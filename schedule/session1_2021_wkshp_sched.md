@@ -26,10 +26,10 @@ Overview of session format |
 Technology |  
 Where to find help | Chris L | 5 mins 
 Goals for this Workshop Session | Christina B | 10 mins 
-* Begin to build a common vocabulary and understanding
-* Create foundation to Improve participant network
-* Identify any particular participant goals
-* Identify potential contribution | 
+Begin to build a common vocabulary and understanding | 
+Create foundation to Improve participant network | 
+Identify any particular participant goals | 
+Identify potential contribution | 
 Refresher on Workshop Objectives | Christina and Elaine | 10 mins 
 Introductions | Graciela | 30 mins 
 
