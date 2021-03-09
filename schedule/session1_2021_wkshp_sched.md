@@ -20,16 +20,9 @@ Part III: Summary, Wrap-up, What's Next
 Session I, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Welcome | Christina B | 5 mins 
-Reiterate Code of Conduct | Christina B | 
-Event Logistics |
-Overview of session format | 
-Technology |  
-Where to find help | Chris L | 5 mins 
+Reiterate Code of Conduct | Christina B | 5 mins 
+Event Logistics | Chris L | 5 mins 
 Goals for this Workshop Session | Christina B | 10 mins 
-Begin to build a common vocabulary and understanding | 
-Create foundation to Improve participant network | 
-Identify any particular participant goals | 
-Identify potential contribution | 
 Refresher on Workshop Objectives | Christina and Elaine | 10 mins 
 Introductions | Graciela | 30 mins 
 
@@ -50,12 +43,12 @@ Cyberinfrastructure: What's in a name?! | Chris L | 20 mins
 * Reproducible v Replication
 
 
-## Cyberinfrastructure Labs Used and/or referenced for this section:
+## Cyberinfrastructure Labs Used and/or referenced for this session:
 * Lab 1
 * Lab 2
 * etc
 
-## Tools / Technology to be used and/or referenced for this section:
+## Tools / Technology to be used and/or referenced for this session:
 * Zoom
 * G-Suite, aka Google Docs
 
