@@ -17,7 +17,7 @@ Part I: Getting Started
 Part II: 
 Part III: Summary, Wrap-up, What's Next
 
-## Session I, Part 1 Agenda Items | Leader | Time
+Session I, Part 1 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | -------
 Welcome | Christina B | 5 mins
 Reiterate Code of Conduct | Christina B |
@@ -34,7 +34,7 @@ Refresher on Workshop Objectives | Christina and Elaine | 10 mins
 Introductions | Graciela | 30 mins
 
 ## Introduction to Data Science and Cyberinfrastructure
-## Session I, Part 2 Agenda Items | Leader | Time
+Session I, Part 2 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | -------
 So You Think You Want to Be a Data Scientist... | Chris L | 20 mins
 Cyberinfrastructure: What's in a name?! | Chris L | 20 mins
