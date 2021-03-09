@@ -1,5 +1,18 @@
 # Cyberinfrastructure: What's in a name?!
 
+## [Objectives and Concepts](#objectives-and-concepts)
+
+* What is ‘Data Science’??
+* Relevant disciplines?
+* What’s the difference analytics
+* Big data?
+* Data Lifecycle / Research Lifecycle
+* FAIR
+* Reproducible v Replication
+
+
+
+
 Interactive survey, show real-time results about experiences w/data and cyberinfrastructure <a href="https://docs.google.com/document/d/1RVxpM62M_X24q-e5e5dqODHczK50aif7do_LUu7B4jI/edit?usp=sharing">(DRAFT Questions)</a>
 
 Session Activities
