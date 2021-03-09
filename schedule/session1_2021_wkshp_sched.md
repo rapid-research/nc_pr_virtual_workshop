@@ -3,7 +3,7 @@
 # DAY 1 - SESSION 1 [3 hours]
 
 
-## Homework ahead
+## Do Ahead Homework
 * [Prep 1 bio slide](https://rapid-research.github.io/nc_pr_virtual_workshop/homework/workshop_bios.html)
 
 ## Roles
@@ -18,6 +18,7 @@
 ### Part III: Summary, Wrap-up, What's Next
 
 ## Session I, Part 1: Getting Started
+
 Session I, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Welcome | Christina B | 5 mins 
