@@ -21,9 +21,9 @@ Session I, Part 1 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | ------- 
 Welcome | Christina B | 5 mins 
 Reiterate Code of Conduct | Christina B | 
-* Event Logistics
-* Overview of session format
-* Technology |   |  
+Event Logistics |
+Overview of session format | 
+Technology |  
 Where to find help | Chris L | 5 mins 
 Goals for this Workshop Session | Christina B | 10 mins 
 * Begin to build a common vocabulary and understanding
