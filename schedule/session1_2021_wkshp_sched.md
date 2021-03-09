@@ -34,14 +34,7 @@ Session I, Part 2 Agenda Items | Leader | Time
 [So You Think You Want to Be a Data Scientist...](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_datasci.html) | Chris L | 20 mins 
 [Cyberinfrastructure: What's in a name?!](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html) | Chris L | 20 mins 
 
-### Objectives and Concepts
-* What is ‘Data Science’??
-* Relevant disciplines?
-* What’s the difference analytics
-* Big data?
-* Data Lifecycle / Research Lifecycle
-* FAIR 
-* Reproducible v Replication
+### [Session I, Part 2 Objectives and Concepts](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html#objectives-and-concepts)
 
 
 ## Cyberinfrastructure Labs Used and/or referenced for this session:
