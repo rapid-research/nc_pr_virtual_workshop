@@ -10,9 +10,9 @@
 * Zoom mic / video muter:
 * Workshop Wizard: 
 
-## Session Overview
+## Session II Overview
 ### Part 1: Welcome, Day 1 Recap, and Q&A
-### Part 2: Topics ?????
+### Part 2: Putting it all together
 ### Part 3: Summary, Wrap-up, What's Next
 
 ## Session II, Part 1: Welcome, Day 1 Recap, and Q&A
@@ -22,13 +22,16 @@ Session II, Part 1 Agenda Items | Leader | Time
 Welcome | Christina B | 5 mins 
 Reiterate Code of Conduct | Christina B | 5 mins 
 Any updates on event logistics | Chris L | 5 mins
-Quick Q & A | Graciela, Christina B | ## mins [//]: # (Any problems that need to be addressed) 
-Day 2 Objectives | who? | ## mins
-   
+Quick Q & A | Graciela, Christina B | ## mins 
+Day 2 Objectives | who? | ## mins 
+
+[//]: # (Any problems that need to be addressed) 
+
 Session II, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Topic TBD | who? | ## mins
-Topic TBD | who? | ## mins
+Review of Workshop Glossary Progress | Chris L  | 10 mins
+Demo of a cool water-related end-to-end CI | Tony C? | ## mins
+Group Exercise to do something similar??? | who? | ## mins
 Topic TBD | who? | ## mins
 
 Session II, Part 3 Agenda Items | Leader | Time 
