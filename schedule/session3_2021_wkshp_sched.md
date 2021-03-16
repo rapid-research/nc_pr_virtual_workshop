@@ -26,10 +26,18 @@ Session III Objectives | who? | ## mins
  
 Session III, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
- Building the Research Coordination Networking | who? | ## mins
+Jupyter Notebook and Rstudio demo? | Christina | ## mins
+Building the Research Coordination Networking | Christina B | ## mins
+Citizen Science and Sensitive Data | Lea | # mins 
+Diversity, Equity, and Inclusion | who? | ## mins
+
+
+
+
+[//]: # (Grant requirements Lea and Christina?
+Town Hall Graciela
  Confidential Data | who? | ## mins
- Identity | who? | ##
- 
+ Identity | who? | ## ) 
  
  Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
