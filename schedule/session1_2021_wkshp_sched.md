@@ -34,8 +34,8 @@ Reiterate Code of Conduct | Christina B | 5 mins
 
 Session I, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-[Data Sleuthing: Episode 1](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/data_sleuth_episode1.html) | Graciela | 20 mins
-[Discussion: Challenges in Post-Disaster Data Collection](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/post_disaster_data_collection.html)
+[Data Sleuthing: Episode 1](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/data_sleuth_episode1.html) | Graciela | 20 mins 
+[Discussion: Challenges in Post-Disaster Data Collection](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/post_disaster_data_collection.html) | who? | ## mins
 [So You Think You Want to Be a Data Scientist...](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_datasci.html) | Chris L | 20 mins 
 [Cyberinfrastructure: What's in a name?!](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_cyberinfra.html) | Chris L | 20 mins 
 
