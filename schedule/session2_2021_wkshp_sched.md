@@ -19,20 +19,19 @@
 
 Session II, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Welcome | Christina B | 5 mins 
-Reiterate Code of Conduct | Christina B | 5 mins 
-Any updates on event logistics | Chris L | 5 mins
-Quick Q & A | Graciela, Christina B | ## mins 
-Day 2 Objectives | who? | ## mins 
+Welcome and logistics, conduct reminder, any other updates | Christina B, Chris L | 5 mins 
+Quick Q & A | Graciela, Christina B | 10 mins 
+[Session II Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | who? | 5 mins 
 
 [//]: # (Any problems that need to be addressed) 
 
 Session II, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Review of Workshop Glossary Progress | Chris L  | 10 mins
-Demo of a cool water-related end-to-end CI | Tony C? | ## mins
-Group Exercise to do something similar??? | who? | ## mins
-Topic TBD | who? | ## mins
+Data Sleuthing 2: North Carolina Case Study | Chris L | 10 mins
+Demo of a cool water-related end-to-end CI/data/model | Tony C? | ## mins
+[Introduction to GitHub](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) | Jill | 20 mins
+Introduction to HydroShare | Christina | 20 mins
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
