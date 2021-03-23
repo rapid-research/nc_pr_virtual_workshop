@@ -34,10 +34,11 @@ Diversity, Equity, and Inclusion | who? | ## mins
 
 
 
-[//]: # (Grant requirements Lea and Christina?
+## Notes
+### Grant requirements Lea and Christina?
 Town Hall Graciela
  Confidential Data | who? | ## mins
- Identity | who? | ## ) 
+ Identity | who? | ##  
  
  Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
