@@ -28,7 +28,8 @@ Session III, Part 2 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | -------  
 Jupyter Notebook and Rstudio demo? | Christina | ## mins
 Building the Research Coordination Networking | Christina B | ## mins
-Citizen Science and Sensitive Data | Lea | # mins 
+Sensitive Data | Lea | # mins 
+Citizen Science | who? |# mins
 Diversity, Equity, and Inclusion | who? | ## mins
 
 
