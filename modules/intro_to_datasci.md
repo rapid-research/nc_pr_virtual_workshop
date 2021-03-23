@@ -18,3 +18,13 @@ All you wanted to know about data science but were afraid to ask.
 
 ## Asnwering the "So What?" Question
 
+### Notes
+* What is ‘Data Science’??
+* Relevant disciplines?
+* What’s the difference analytics
+* Big data?
+* Data Lifecycle / Research Lifecycle
+* FAIR
+* Reproducible v Replication
+
+
