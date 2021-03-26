@@ -32,6 +32,8 @@ Review of Workshop Glossary Progress | Chris L  | 10 mins
 Demo of a cool water-related end-to-end CI/data/model | Tony C? | ## mins
 [Introduction to GitHub](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) | Jill | 20 mins
 [Introduction to HydroShare](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_hydroshare.html) | Christina | 20 mins
+[Introduction to Jupyter Notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html) | Christina? | ## mins  
+[Introduction to RStudio](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_rstudio.html)  | who? | ## mins
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
