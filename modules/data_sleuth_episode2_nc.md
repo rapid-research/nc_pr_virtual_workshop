@@ -1,4 +1,4 @@
-# North Carolina Data Sleuthing Case Study
+# Data Sleuthing 2: North Carolina Data Case Study
 
 ## Pre-Session Homework
 
