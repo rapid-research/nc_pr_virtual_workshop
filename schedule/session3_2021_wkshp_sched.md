@@ -21,16 +21,16 @@ Welcome | Christina B | 5 mins
 Reiterate Code of Conduct | Christina B | 5 mins 
 Any updates on event logistics | Chris L | 5 mins
 Quick Q & A | Graciela, Christina B | ## mins 
-Session III Objectives | who? | ## mins 
+[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? | ## mins 
  
  
 Session III, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-Jupyter Notebook and Rstudio demo? | Christina | ## mins
-Building the Research Coordination Networking | Christina B | ## mins
-Sensitive Data | Lea | # mins 
-Citizen Science | who? |# mins
-Diversity, Equity, and Inclusion | who? | ## mins
+[Sensitive Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | Lea (virtual) | # mins 
+[Citizen Science](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? |# mins
+Diversity, Equity, Inclusion in Researach | who? | ## mins
+[Building a Research Coordination Network](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | Christina B | ## mins
+[Strategies and Resources for Going Forward](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? | ## mins
 
 
 
