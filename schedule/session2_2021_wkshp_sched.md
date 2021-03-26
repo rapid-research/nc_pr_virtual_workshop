@@ -28,10 +28,10 @@ Quick Q & A | Graciela, Christina B | 10 mins
 Session II, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Review of Workshop Glossary Progress | Chris L  | 10 mins
-Data Sleuthing 2: North Carolina Case Study | Chris L | 10 mins
+[Data Sleuthing 2: North Carolina Case Study](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/data_sleuth_episode2_nc.html) | Chris L | 10 mins
 Demo of a cool water-related end-to-end CI/data/model | Tony C? | ## mins
 [Introduction to GitHub](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) | Jill | 20 mins
-Introduction to HydroShare | Christina | 20 mins
+[Introduction to HydroShare](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_hydroshare.html) | Christina | 20 mins
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
@@ -81,20 +81,4 @@ Information dissemination during the hurricane
  
 How do the case studies help us prepare for the next hurricane?
 After listening, <span style="text-decoration:underline;">present overview of data tools</span> they could use to help tackle those challenges 
-  
-BREAK 15-20 min 
-
-How are the labs going? 
-
-Do you see ways to integrate these resources into your research/work?
-
-What questions do you have?
-
-Day 2 - Closing
-Summary / Recap
-<p>
-Assessment
-<p>
-What’s on tap for Day 3
-
   
