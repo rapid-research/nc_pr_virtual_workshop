@@ -3,9 +3,9 @@
 Here you will find access to almost all of the relevant content for the workshop.  Feel free to browse around and try things.  Let us know what you think!
 
 ## Detailed Workshop Schedule
-### [Session I](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session1_2021_wkshp_sched.html)
-### [Session II](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session2_2021_wkshp_sched.html)
-### [Session III](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session3_2021_wkshp_sched.html)
+### [Session I](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session_i_2021_wkshp_sched.html)
+### [Session II](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session_ii_2021_wkshp_sched.html)
+### [Session III](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/session_iii_2021_wkshp_sched.html)
 
 
 ## Explore Workshop Content by:
