@@ -31,9 +31,7 @@
 Topic | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Welcome & [Workshop Code of Conduct](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_codeofconduct.html) | Christina B | 5 mins 
-Q&A Session Regarding Homework ([Workshop Logistics](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_logistics.html), 
-[Goals for this Workshop Session](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionI_goals.html), 
-[Refresher on Workshop Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_objectives.html)) | All | 10 mins 
+Q&A Session Regarding Homework ([Workshop Logistics](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_logistics.html), [Goals for this Workshop Session](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionI_goals.html), [Refresher on Workshop Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_objectives.html)) | All | 10 mins  
 Pre-Workshop Questionnaire Results / Discussion | Elaine and Graciela | 30 mins 
  | __Total__ | __45 mins__ 
  
