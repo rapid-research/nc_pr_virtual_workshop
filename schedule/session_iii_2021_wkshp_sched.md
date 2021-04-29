@@ -14,7 +14,7 @@
 ### Part 2: Diversity, Equity, & Inclusion in Research
 ### Part 3: Research Networks, Wrap-Up
 
-## Session III, Part 1: Welcome, Day 1 Recap, and Q&A
+## Session III, Part 1: Sensitive Data
 
 Session III, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
