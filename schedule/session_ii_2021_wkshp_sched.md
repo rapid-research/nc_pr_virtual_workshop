@@ -11,7 +11,7 @@
 * Workshop Wizard: 
 
 ## Session II Overview
-### Part 1: [Data Discovery] (https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)(GitHub to support research and resources for finding, analyzing, and sharing data)
+### Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) (GitHub to support research and resources for finding, analyzing, and sharing data)
 ### Part 2: Making data come alive with computational notebooks
 ### Part 3: Decision Analytics for Preparedness and Response
 
@@ -31,17 +31,17 @@ Session II, Part 2 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | ------- 
 Review of Workshop Glossary Progress | Chris L  | 5 mins
 Making data come alive with computational notebooks  | Tony C? | 15 mins
-What are barriers and benefits to accessing these tools in your research? | Tony C? | 10 mins
+What are barriers and benefits to accessing these tools in your research? | Tony C? | 15 mins
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Decision Analytics for Preparedness and Response | Elaine | 30 mins
+Decision Analytics for Preparedness and Response | Elaine | 25 mins
 How do you see data analytic tools being applied in your research? | Elaine, Jill | 20 mins
 What's Next | Jill | 10 mins
 Session Assessment (Survey) | Jill | 10 mins
 
 ## Cyberinfrastructure Labs Used and/or referenced for this session:
-* [Data Discovery - GitHub and Hydroshare] (https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
+* [Data Discovery - GitHub and Hydroshare](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
 * [Introduction to Jupyter Notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
 * [Introduction to RStudio](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_rstudio.html)
 * etc
