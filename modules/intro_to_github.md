@@ -8,7 +8,7 @@
 * [Tutorial - Introduction to GitHub [< 1 hour]](https://lab.github.com/githubtraining/introduction-to-github)
 
 ## Module Objectives
-* Understand the basics of what GitHub provides for collaboration
+* Become familiar with the basics of GitHub and what it provides for collaboration
 * Sign-up for a free GitHub account
 * Identify how GitHub can be used to support Hurricane research
 
@@ -17,19 +17,19 @@
 
 Session I, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Introductory slides to introduce GitHub and applications in research | Jill, Christina B | ## mins 
-Demonstration for sharing and accessing information in a GitHub repository | Jill, Christina B | ## mins
-Link to how it can be used with HydroShare? | Jill, Christina B | ## mins
+Q&A Session Regarding Homework (Workshop Logistics, Goals for this Workshop Session, Refresher on Workshop Objectives) | Jill | 10 mins
+What is GitHub and how can it support hurricane research? | Jill | 15 mins 
+Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Jill, Christina B | 15 mins
+How do you see your research in these tools? | Jill, Christina B | 20 mins
 
 ### Activity
 1. Introduction to GitHub review (slides recount pre-session homework)
-2. Q&A (large group or break-out groups) to reflect on pre-session tutorials and/or prior experience using GitHub (collaborative “sticky note” Google Slides here?)
+2. Q&A (large group or break-out groups) to reflect on pre-session tutorials and/or prior experience using GitHub (collaborative “sticky note” Google Slides)
 * What is confusing?
 * Do you have an example of how prior or current work could utilize GitHub?
 * What do you see as challenging?
 * What seems beneficial?
-3. Demonstration that walks through an example for sharing and accessing information in a GitHub repository
-* This could be linked to a Hydroshare example (either in this module or later?)
+3. Demonstration that walks through a the Hurricane Maria case study for sharing and accessing information in a GitHub repository and then publishing the data in Hydroshare
 
 Use collaborative [“sticky note” Google Slides](https://docs.google.com/presentation/d/1yqnIilLhTc7FHgOONXvRMpHyZLhK83agvFa8VFtzlug/edit?usp=sharing) for break-out group
 
