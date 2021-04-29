@@ -16,7 +16,7 @@
 
 ## Agenda
 
-Session I, Part 1 Agenda Items | Leader | Time 
+Session II, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Q&A Session Regarding Homework (Workshop Logistics, Goals for this Workshop Session, Refresher on Workshop Objectives) | Jill | 10 mins
 What is GitHub and how can it support hurricane research? | Jill | 15 mins 
