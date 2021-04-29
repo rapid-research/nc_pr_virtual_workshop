@@ -1,7 +1,7 @@
 # Workshop Session I: Goals
 
-1. Familiarity with Workshop approach
-2. Begin to build a common vocabulary and understanding
-3. Create foundation to improve participant network(s)
-4. Identify any particular participant goals
-5. Identify potential contributions to the network
+1. Confirm participant familiarity with Workshop approach, structure, format, resources
+2. Create foundation for the rest of the Workshop
+  * Begin to build a common conceptual vocabulary and understanding
+  * Create foundation to improve participant network(s)
+  * Understand particular participant goals and potential contributions to the network
