@@ -1,6 +1,7 @@
 ## DAY 3 - SESSION III [3 hours]
 
 ## Do Ahead Homework
+* TBA
 
 ## Roles
 * Moderator:
@@ -9,58 +10,44 @@
 * Workshop Wizard: 
 
 ## Session III Overview
-### Part 1: Welcome, Sessino II Recap, and Q&A
-### Part 2: Research Networks, Special Topics
-### Part 3: Summary, Wrap-up, What's Next
+### Part 1: Sensitive Data
+### Part 2: Diversity, Equity, & Inclusion in Research
+### Part 3: Research Networks, Wrap-Up
 
 ## Session III, Part 1: Welcome, Day 1 Recap, and Q&A
 
 Session III, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Welcome | Christina B | 5 mins 
-Reiterate Code of Conduct | Christina B | 5 mins 
-Any updates on event logistics | Chris L | 5 mins
-Quick Q & A | Graciela, Christina B | ## mins 
-[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? | ## mins 
- 
- 
+Welcome, Session II Recap, other updates | TBA | 5 mins 
+[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | TBA | 5 mins 
+[Sensitive Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | Lea | 25 mins
+Q&A on Sensitive Data | Lea | 15 mins 
+Break | All | 10 mins 
+
+## Session III, Part 2: Diversity, Equity, & Inclusion in Research
+
 Session III, Part 2 Agenda Items | Leader | Time 
+---------------------------------------- | --------------- | -Town ------  
+Diversity, Equity, & Inclusion in Research Town Hall | TBA | 40 mins
+Break | All | 10 mins 
+
+## Session III, Part 2: Research Networks, Wrap-Up
+
+Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-[Sensitive Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | Lea (virtual) | # mins 
-[Citizen Science](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? |# mins
-Diversity, Equity, Inclusion in Researach | who? | ## mins
-[Building a Research Coordination Network](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | Christina B | ## mins
-[Strategies and Resources for Going Forward](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | who? | ## mins
+[Building a Research Coordination Network](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | TBA | 20 mins
+[Strategies and Resources for Going Forward](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/ | TBA | 30 mins
+Workshop Assessment (Survey) | All | 10 mins 
 
-
-
-
-## Notes
-### Grant requirements Lea and Christina?
-Town Hall Graciela
- Confidential Data | who? | ## mins
- Identity | who? | ##  
- 
- Session III, Part 3 Agenda Items | Leader | Time 
----------------------------------------- | --------------- | ------- 
-Summary| who? | ## mins
-Wrap-up | who? | ## mins
-What's Next | who? | ## mins 
- 
-## Cyberinfrastructure Labs Used and/or referenced for this session:
-* Lab 1
-* Lab 2
-* etc
+## Activities
+* Learn about senstive data, FAIR Data Principles, and best practices in publishing data
+* Town Hall to discuss how diversity, equity, and inclusion affect their roles and how cybertools may better facilitate DEI
+* Establish a research coordination network and discuss collaboration opportunties with workshop participants
 
 ## Tools / Technology to be used and/or referenced for this session:
 * Zoom
 * G-Suite, aka Google Docs
 
-## Other Resources
-* Case Study Template (Lea to provide)
-* TBD 
- 
- 
 ### Notes 
 What elements are needed to create a thriving RAPID network (Miro)? 
 E.g., collaboration platform, staff coordinator, data repository and publishing?
