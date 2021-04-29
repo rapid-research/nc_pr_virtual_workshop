@@ -19,8 +19,8 @@
 Session III, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Welcome, Session II Recap, other updates | TBA | 5 mins 
-[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA | 5 mins 
-[Sensitive Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | Lea | 25 mins
+[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionIII_goals.html) | TBA | 5 mins 
+Sensitive Data | Lea | 25 mins
 Q&A on Sensitive Data | Lea | 15 mins 
 Break | All | 10 mins 
 
@@ -35,8 +35,8 @@ Break | All | 10 mins
 
 Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-[Building a Research Coordination Network](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA | 20 mins
-[Strategies and Resources for Going Forward](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA | 30 mins
+Building a Research Coordination Network | TBA | 20 mins
+Strategies and Resources for Going Forward | TBA | 30 mins
 Workshop Assessment (Survey) | All | 10 mins 
 
 ## Activities
