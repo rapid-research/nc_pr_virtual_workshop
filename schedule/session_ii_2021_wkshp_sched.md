@@ -22,8 +22,9 @@ Session II, Part 1 Agenda Items | Leader | Time
 Welcome and logistics, conduct reminder, any other updates | Christina B, Chris L | 5 mins 
 Quick Q & A regarding Session 1 and homework; [Session II Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill | 5 mins 
 What is GitHub and how can it support hurricane research? | Jill, Christina B | 15 mins
-Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Jill, Christina B | 15 mins
-How do you see your research in these tools? | Jill, Christina B | 20 mins
+Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Tony C? | 15 mins
+How do you see your research in these tools? | Tony C? | 20 mins
+Break | All | 10 mins
 
 [//]: # (Any problems that need to be addressed) 
 
@@ -34,6 +35,7 @@ Session II, Part 2 Agenda Items | Leader | Time
 Review of Workshop Glossary Progress | Chris L  | 5 mins
 Making data come alive with computational notebooks  | Tony C? | 15 mins
 What are barriers and benefits to accessing these tools in your research? | Tony C? | 15 mins
+Break | All | 10 mins
 
 ## Session II, Part 3: [Decision Analytics for Preparedness and Response](https://github.com/rapid-research/nc_pr_virtual_workshop/blob/2fe454b934d9b7b23ecc09c22d1b77b40eb11e75/modules/intro_to_data_analytics.md)
 
