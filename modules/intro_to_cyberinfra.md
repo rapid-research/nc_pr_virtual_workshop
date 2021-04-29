@@ -1,6 +1,6 @@
 # Cyberinfrastructure: What's in a name?!
 
-## [Objectives and Concepts](#objectives-and-concepts)
+## Goals for this Module
 
 * What is Infrastructure?
 * What is Cyberinfrastructure’?
