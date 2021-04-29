@@ -11,6 +11,7 @@
 * Become familiar with the basics of GitHub and what it provides for collaboration
 * Sign-up for a free GitHub account
 * Identify how GitHub can be used to support Hurricane research
+* Discover Hydroshare as a resource for finding, analyzing, and sharing water data
 
 
 ## Agenda
