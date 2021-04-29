@@ -40,9 +40,9 @@ Use collaborative [“sticky note” Google Slides](https://docs.google.com/pres
 
 ## Cyberinfrastructure Labs
 * Introduction to GitHub
-* •	GitHub guides https://guides.github.com/ 
-•	“Pro Git” open source book (Scott Chacon and Ben Straub): https://gitscm.com/book/en/v2     
-•	Learning Lab – Communicating using Markdown: https://lab.github.com/githubtraining/communicating-using-markdown 
-•	Learning Lab – Uploading your project to GitHub: https://lab.github.com/githubtraining/uploading-your-project-to-github 
-•	Setting up a GitHub Repository for your Lab: https://ourcodingclub.github.io/tutorials/git-for-labs/ 
+* GitHub guides https://guides.github.com/ 
+* "Pro Git” open source book (Scott Chacon and Ben Straub): https://gitscm.com/book/en/v2     
+* Learning Lab – Communicating using Markdown: https://lab.github.com/githubtraining/communicating-using-markdown 
+* Learning Lab – Uploading your project to GitHub: https://lab.github.com/githubtraining/uploading-your-project-to-github 
+* Setting up a GitHub Repository for your Lab: https://ourcodingclub.github.io/tutorials/git-for-labs/ 
 
