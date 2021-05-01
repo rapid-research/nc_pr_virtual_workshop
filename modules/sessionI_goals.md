@@ -5,3 +5,4 @@
   * Begin to build a common conceptual vocabulary and understanding
   * Create foundation to improve participant network(s)
   * Understand particular participant goals and potential contributions to the network
+3. Identify key concepts related to life cycle approaches to research, data, and disasters
