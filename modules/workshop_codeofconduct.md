@@ -18,7 +18,7 @@ Reporting Channels
 
 If you have experienced or observed a Code of Conduct Violation (unethical or unprofessional behavior), we have outlined multiple options for you to report.
 
-For an immediate in person response to discuss concerns or next steps, contact Workshop Director: Christina Bandaragoda, cband@uw.edu.
+For an immediate in person response to discuss concerns or next steps, contact Workshop Co-Director: Elaine Faustman, faustman@uw.edu.
 
 
 
