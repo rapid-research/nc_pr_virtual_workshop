@@ -12,24 +12,24 @@
 
 Session I, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Review session objectives | Jill, Graciela | ## mins 
-Break-out group discussion | Jill, Graciela | ## mins
-Break-out report-outs | Jill, Graciela | ## mins
+Review session objectives | Elaine, Jill, Graciela | 2 mins 
+Break-out group discussion | Elaine, Jill, Graciela | 15 mins
+Break-out report-outs | Elaine, Jill, Graciela | 3 mins
 
-### Breakout Group Instructions
+### Group Discussion Instructions
 * Use provide link to collaborative “sticky note” Google Slides for break-out group
 * Discuss challenges related to:
   * Comparing results across different methods
   * Communication
   * Data access
   * Data sharing
-* Each group will add stick notes using the provided template to capture key discussion points and ideas
+* Each group will add sticky notes using the provided template to capture key discussion points and ideas
 * Report back to group to highlight key takeaways
 
 Use collaborative [“sticky note” Google Slides](https://docs.google.com/presentation/d/1yqnIilLhTc7FHgOONXvRMpHyZLhK83agvFa8VFtzlug/edit?usp=sharing) for break-out group
 
 ## Relevant Cyber Tools
-* TBD
+* G-Suite
 
 ## Cyberinfrastructure Labs
 * TBD
