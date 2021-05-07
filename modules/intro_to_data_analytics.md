@@ -1,4 +1,4 @@
-#Decision Analytics for Preparedness and Response
+# Decision Analytics for Preparedness and Response
 
 ## Module Objective
 * Become familiar with decision analytic tools 
@@ -17,8 +17,7 @@ Session Assessment (Survey) | Jill | 10 mins
 
 ### Activities
 * Demonstration of multi-criteria decision analysis tools
-* Presentation of a case study
-* Group (break-out?) discussion on applications
+* Applications in disaster preparedness and response
 
 ## Tools
 * To be Provided
