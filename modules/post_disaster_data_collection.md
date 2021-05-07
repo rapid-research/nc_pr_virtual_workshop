@@ -26,7 +26,7 @@ Break-out report-outs | Elaine, Jill, Graciela | 3 mins
 * Each group will add sticky notes using the provided template to capture key discussion points and ideas
 * Report back to group to highlight key takeaways
 
-Use collaborative [“sticky note” Google Slides](https://docs.google.com/presentation/d/1yqnIilLhTc7FHgOONXvRMpHyZLhK83agvFa8VFtzlug/edit?usp=sharing) for break-out group
+Use collaborative [“sticky note” Google Slides](https://docs.google.com/presentation/d/1yqnIilLhTc7FHgOONXvRMpHyZLhK83agvFa8VFtzlug/edit#slide=id.gd4e2e6aa28_0_96) for break-out group
 
 ## Relevant Cyber Tools
 * G-Suite
