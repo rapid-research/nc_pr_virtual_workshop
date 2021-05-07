@@ -17,7 +17,7 @@
 ## Session II Overview
 ### Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) (GitHub to support research and resources for finding, analyzing, and sharing data)
 ### Part 2: [Making data come alive with computational notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
-### Part 3: [Decision Analytics for Preparedness and Response](https://github.com/rapid-research.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
+### Part 3: [Decision Analytics for Preparedness and Response](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
 
 ## Session II, Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
 
@@ -41,7 +41,7 @@ Making data come alive with computational notebooks  | Tony C? | 15 mins
 What are barriers and benefits to accessing these tools in your research? | Tony C? | 15 mins
 Break | All | 10 mins
 
-## Session II, Part 3: [Decision Analytics for Preparedness and Response](https://github.com/rapid-research.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
+## Session II, Part 3: [Decision Analytics for Preparedness and Response](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
