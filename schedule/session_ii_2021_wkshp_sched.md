@@ -52,8 +52,7 @@ Session Assessment (Survey) | Jill | 10 mins
 
 ## Cyberinfrastructure Labs Used and/or referenced for this session:
 * [Data Discovery - GitHub and Hydroshare](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
-* [Introduction to Jupyter Notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
-* [Introduction to RStudio](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_rstudio.html)
+* [Computational Notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
 
 ## Tools / Technology to be used and/or referenced for this session:
 * Zoom
