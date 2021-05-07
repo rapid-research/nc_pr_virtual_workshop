@@ -3,6 +3,11 @@
 # DAY 2 - SESSION II [3 hours]
 
 ## Do Ahead Homework
+* [What is GitHub YouTube video [3:45]](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+* Set-up a free GitHub account: https://github.com/join
+  * Screenshot tutorial: https://www.wikihow.com/Create-an-Account-on-GitHub
+  * Video Tutorial [2:35]: https://lambdaschool.com/the-commons/how-to-sign-up-for-a-free-github-account 
+* [Tutorial - Introduction to GitHub [< 1 hour]](https://lab.github.com/githubtraining/introduction-to-github)
 
 ## Roles
 * Moderator: Jill
