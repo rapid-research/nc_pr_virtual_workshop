@@ -11,9 +11,8 @@
 
 ## Roles
 * Moderator: Jill
-* Time Keeper: 
-* Zoom mic / video muter:
-* Workshop Wizard: 
+* Time Keeper: Elaine
+* Zoom mic / video muter: Chris
 
 ## Session II Overview
 ### Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) (GitHub to support research and resources for finding, analyzing, and sharing data)
