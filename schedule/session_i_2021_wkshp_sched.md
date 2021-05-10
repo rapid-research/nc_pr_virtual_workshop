@@ -15,9 +15,8 @@
 
 ### Roles
 * Moderator: Chris
-* Time Watcher: Elaine
 * Workshop Wizard (Chat monitor, mic / video muter): Jill
-
+* Time Lord: Elaine
 
 ***
 
@@ -33,8 +32,8 @@
 Topic | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 [Welcome](https://docs.google.com/presentation/d/1SnLdsvksdGB58zYiA54eliNqMi_16UMsunAJFYC1xc8/edit?usp=sharing) & [Workshop Code of Conduct](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_codeofconduct.html) | Christina B / Chris L | 5 mins 
-Q&A Session Regarding Homework ([Workshop Logistics](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_logistics.html), [Goals for this Workshop Session](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionI_goals.html), [Refresher on Workshop Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_objectives.html)) | All | 10 mins  
-Pre-Workshop Questionnaire Results / Discussion | Elaine, Jill, and Graciela | 10 mins 
+Q&A Session Regarding Homework or anything else up to this point ([Workshop Logistics](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_logistics.html), [Goals for this Workshop Session](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionI_goals.html), [Refresher on Workshop Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/workshop_objectives.html)) | All | 10 mins  
+[Pre-Workshop Questionnaire Results](https://drive.google.com/file/d/1K5bj3Zxfb0V7dWMr8-Y3pdtdgxHNS4Wk/view?usp=sharing) / Discussion | Elaine, Jill, and Graciela | 10 mins 
  | __Total__ | __25 mins__ 
  
 
@@ -62,9 +61,9 @@ Topic | Leader | Time
 Topic | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Summary / Q&A | Chris L | 10 mins 
-What's Next, Session II | Jill | 5 mins
+[What's Next, Session II](https://docs.google.com/presentation/d/1KdWBnq38U3VKUZXVx_eKVqZ1PpqWMjAXvZrF7JZ9CWI/edit?usp=sharing) | Jill | 5 mins
 What's your take-away (3 words) | | 5 mins
-Wrap-up/ Session I Assessment | Jill | 15 mins 
+Wrap-up / Session I Assessment | Jill | 15 mins 
 | __Total__ | __35 mins__
 
 ## Tools / Technology to be used and/or referenced for this session:
