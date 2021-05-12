@@ -15,39 +15,45 @@
 * Zoom mic / video muter: Chris
 
 ## Session II Overview
-### Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) (GitHub to support research and resources for finding, analyzing, and sharing data)
-### Part 2: [Making data come alive with computational notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
+### Part 1: [GitHub](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html) (GitHub to support research and resources for finding, analyzing, and sharing data)
+### Part 2: [Data Sleuthing Episode 2: Discover and Explore Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
 ### Part 3: [Decision Analytics for Preparedness and Response](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
 
-## Session II, Part 1: [Data Discovery](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
+## Session II, Part 1: [GitHub](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_github.html)
 
 Session II, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Welcome and logistics, conduct reminder, any other updates | Christina B, Chris L | 5 mins 
-Quick Q & A regarding Session 1 and homework; [Session II Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill | 5 mins 
-What is GitHub and how can it support hurricane research? | Jill, Christina B | 15 mins
-Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Tony C? | 15 mins
-How do you see your research in these tools? | Tony C? | 20 mins
+Welcome, Q&A, [Intro to Session II](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill | 10 mins 
+Assessing the definitions developed in Session I;  | Chris | 5 mins 
+What is GitHub and how can it support research? | Jill | 10 mins
+Interactive GitHub Session | Jill, Chris, Tony | 15 mins
+How do you see your research in these tools? | Group Discussion | 10 mins
 Break | All | 10 mins
 
 [//]: # (Any problems that need to be addressed) 
 
-## Session II, Part 2: [Making data come alive with computational notebooks](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
+## Session II, Part 2: [Data Sleuthing Episode 2: Discover and Explore Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_jupyter_notebooks.html)
 
 Session II, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Review of Workshop Glossary Progress | Chris L  | 5 mins
-Making data come alive with computational notebooks  | Tony C? | 15 mins
-What are barriers and benefits to accessing these tools in your research? | Tony C? | 15 mins
+Introduction to Hydroshare | Tony  | 10 mins
+Linking Hurricane Maria data in Hydroshare to a Jupyter Notebook | Tony/Julia | 20 mins
+Stump a Hydrologist Q&A (What are barriers and benefits to accessing these tools in your research? | Tony/Julia | 25 mins
 Break | All | 10 mins
 
 ## Session II, Part 3: [Decision Analytics for Preparedness and Response](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/intro_to_data_analytics.html)
 
 Session II, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Decision Analytics for Preparedness and Response | Elaine | 25 mins
-How do you see data analytic tools being applied in your research? | Elaine, Jill | 20 mins
-What's Next | Jill | 10 mins
+Decision Analytics for Preparedness and Response | Elaine | 15 mins
+Introduction to a decision analysis tool | Elaine, Jill | 10 mins
+
+## Session II, Part 4: Research Support and What's Next
+
+Session II, Part 3 Agenda Items | Leader | Time 
+---------------------------------------- | --------------- | ------- 
+Where do you go for help? | Chris | 5 mins
+What's Next: Session III preview | Jill | 5 mins
 Session Assessment (Survey) | Jill | 10 mins
 
 ## Cyberinfrastructure Labs Used and/or referenced for this session:
