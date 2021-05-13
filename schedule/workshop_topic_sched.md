@@ -21,29 +21,33 @@ Q&A, What's Next, Session Assessment | Chris L |
 
 Topic | Lead | What
 ------|------|------
-Welcome and logistics, conduct reminder, any other updates | Christina B, Chris L |
-Quick Q & A regarding Session 1 and homework; [Session II Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill |
-What is GitHub and how can it support hurricane research? | Jill, Christina B | 
-Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Tony C? |
-How do you see your research in these tools? | Tony C? |
-Review of Workshop Glossary Progress | Chris L  |
-Making data come alive with computational notebooks  | Tony C? |
-What are barriers and benefits to accessing these tools in your research? | Tony C? |
+Welcome, Q&A, [Intro to Session II](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill |
+Assessing the definitions developed in Session I;  | Chris | 
+What is GitHub and how can it support research? | Jill | 
+Interactive GitHub Session | Jill, Chris, Tony | 
+How do you see your research in these tools? | Group Discussion | 
+Introduction to Hydroshare | Tony  |
+Linking Hurricane Maria data in Hydroshare to a Jupyter Notebook | Tony/Julia | 
+Stump a Hydrologist Q&A (What are barriers and benefits to accessing these tools in your research? | Tony/Julia |
 Decision Analytics for Preparedness and Response | Elaine |
-How do you see data analytic tools being applied in your research? | Elaine, Jill 
-What's Next | Jill |
-Session Assessment (Survey) | Jill |
-		
+Introduction to a decision analysis tool | Elaine, Jill | 
+Where do you go for help? | Chris |
+What's Next: Session III preview | Jill | 
+Session Assessment (Survey) | Jill | 
+
 
 # Session 3
 
 Topic | Lead | What
 ------|------|------
 Welcome, Session II Recap, other updates | TBA |
-[Session III Objectives](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA |
-[Sensitive Data](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | Lea |
-Q&A on Sensitive Data | Lea |
-Diversity, Equity, & Inclusion in Research Town Hall | TBA |
-[Building a Research Coordination Network](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA |
-[Strategies and Resources for Going Forward](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/) | TBA |
-Workshop Assessment (Survey) | All |
+Session III Objectives | TBA |
+Decision Analytics - Follow-up with review of tool/applications | Elaine |
+Data Sleuthing: Episode 3 | Chris |
+Open Data | Chris |
+Sensitive Data | Lea |
+Diversity, Equity, & Inclusion Town Hall | TBA
+Building a Research Coordination Network | TBA
+Strategies and Resources for Going Forward | TBA
+Happy Hour/Group Activity | TBA
+Session (Survey) Assessment | Jill 
