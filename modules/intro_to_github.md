@@ -10,29 +10,24 @@
 ## Module Objectives
 * Become familiar with the basics of GitHub and what it provides for collaboration
 * Sign-up for a free GitHub account
-* Identify how GitHub can be used to support Hurricane research
-* Discover Hydroshare as a resource for finding, analyzing, and sharing water data
+* Identify how GitHub can be used to support research
 
 
 ## Agenda
 
 Session II, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
-Q&A Session Regarding Homework (Workshop Logistics, Goals for this Workshop Session, Refresher on Workshop Objectives) | Jill | 10 mins
-What is GitHub and how can it support hurricane research? | Jill | 15 mins 
-Hydroshare as a water data resource (demonstration for sharing and accessing information in a GitHub repository) | Jill, Christina B | 15 mins
-How do you see your research in these tools? | Jill, Christina B | 20 mins
+Welcome, Q&A, [Intro to Session II](https://rapid-research.github.io/nc_pr_virtual_workshop/modules/sessionII_goals.html) | Jill | 10 mins 
+Assessing the definitions developed in Session I;  | Chris | 5 mins 
+What is GitHub and how can it support research? | Jill | 10 mins
+Interactive GitHub Session | Jill, Chris, Tony | 15 mins
+How do you see your research in these tools? | Group Discussion | 10 mins
+Break | All | 10 mins
 
 ### Activity
 1. Introduction to GitHub review (slides recount pre-session homework)
-2. Q&A (large group or break-out groups) to reflect on pre-session tutorials and/or prior experience using GitHub (collaborative “sticky note” Google Slides)
-* What is confusing?
-* Do you have an example of how prior or current work could utilize GitHub?
-* What do you see as challenging?
-* What seems beneficial?
-3. Demonstration that walks through a the Hurricane Maria case study for sharing and accessing information in a GitHub repository and then publishing the data in Hydroshare
-
-Use collaborative [“sticky note” Google Slides](https://docs.google.com/presentation/d/1yqnIilLhTc7FHgOONXvRMpHyZLhK83agvFa8VFtzlug/edit?usp=sharing) for break-out group
+2. GitHub Interactive Demo: Create a repository, add definitions and resources
+3. Discussion: How do you see your research in these tools? 
 
 ## Relevant Cyber Tools
 * Git-Hub
