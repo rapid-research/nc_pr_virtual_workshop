@@ -21,8 +21,8 @@
 * Workshop Wizard: 
 
 ## Session III Overview
-### Part 1: Sensitive Data
-### Part 2: Diversity, Equity, & Inclusion in Research
+### Part 1: Decision Analytics Continued
+### Part 2: Open Data; Sensitive Data; Diversity, Equity, & Inclusion in Research
 ### Part 3: Research Networks, Wrap-Up
 
 ## Session III, Part 1: Decision Analytics Continued
