@@ -15,13 +15,13 @@ Links may point to presentations at other locations.
 
 ### Session 2 Presentations (14 May 2021)
 1. [Session I Recap, GitHub Overview (Slides)](https://docs.google.com/presentation/d/1y3zNs99POTv_iuvUbEWARno_WSlKLmc8KWdauh6dXpw/edit?usp=sharing)
-- [Markdown Cheatsheet (GitHub)](https://drive.google.com/file/d/1sULkLOpCwU7QcuJ9yUTj8JKCSSz9rPTH/view?usp=sharing)
+- [Markdown Cheatsheet (pdf)](https://drive.google.com/file/d/1sULkLOpCwU7QcuJ9yUTj8JKCSSz9rPTH/view?usp=sharing)
 #### - [Video Recording](https://drive.google.com/file/d/1xg_FIN3hWQrI3DgAAf8bevobwZVRScgm/view?usp=sharing)
 2. Data Sleuthing, Episode 2 (Hydroshare and JupyterHub) - Slides Coming Soon
 #### - [Video Recording](https://drive.google.com/file/d/1DHisV4ehxJOqEpfh-Xqm3uiHgtj5jJ4H/view?usp=sharing)
 3. [Decision Analytics (Slides)](https://docs.google.com/presentation/d/1Oa8vxvztUqgTKsAqnNr0n4_ws_82I0UlUM0sUeOvUUU/edit?usp=sharing)
-- [Decision Analytics Tool for Group Decision Making Instructions (Slides)](https://docs.google.com/presentation/d/1Oa8vxvztUqgTKsAqnNr0n4_ws_82I0UlUM0sUeOvUUU/edit?usp=sharing)
-- [Decision Analytics Tool for Group Decision Making (Excel Spreadsheet Tool)](https://docs.google.com/presentation/d/1UaIndG1n4_Rg4PuziA8Cp3yRgA15Jr--HqiWLIY6Go0/edit?usp=sharing)
+- [Decision Analytics Tool for Group Decision Making Instructions (Slides)](https://docs.google.com/presentation/d/1UaIndG1n4_Rg4PuziA8Cp3yRgA15Jr--HqiWLIY6Go0/edit?usp=sharing)
+- [Decision Analytics Tool for Group Decision Making (Excel Spreadsheet Tool)](https://drive.google.com/file/d/19z1nQyD-tnv4bUww8SC4rYRbQhxDY0M5/view?usp=sharing)
 #### - [Video Recording](https://drive.google.com/file/d/1AFE324Wm2kKg1UHI_08B0Ystp4U5mLAH/view?usp=sharing)
 4. [What to Expect in Session III and Post-Session Survey (Slides)](https://docs.google.com/presentation/d/1NXB4irvOSZaA0aazq2Tm7gRPDtdiU8IoyCXITfVEhXE/edit?usp=sharing)
 - [Finding Help Flowchart (pdf)](https://drive.google.com/file/d/1iQGwdwoCNxhVWFenK81Pj_XQyg7e0WwO/view?usp=sharing)
