@@ -1,7 +1,18 @@
 ## DAY 3 - SESSION III [3 hours]
 
-## Do Ahead Homework
-* TBA
+## Resources to Explore before Session III (June 4th)
+1. Decision Analytics Tool - explore how you may use this tool for group decision making in your research
+* [Tool: Decision Analytics for Group Decision Making (Download as Excel file)](https://drive.google.com/file/d/19z1nQyD-tnv4bUww8SC4rYRbQhxDY0M5/view?usp=sharing)
+* [Instructions for using tool](https://docs.google.com/presentation/d/1UaIndG1n4_Rg4PuziA8Cp3yRgA15Jr--HqiWLIY6Go0/edit?usp=sharing)
+2. Try adding to resources and workshop definitions on GitHub:
+* Log into GitHub with your account and go to the [workshop-resources repository](https://github.com/rapid-research/workshop-resources)
+* Add to the [Resource List](https://github.com/rapid-research/workshop-resources/blob/main/resource_list.md) by selecting the "pencil" edit image, add text (use markdown cheatsheet listed below), and scroll to the bottom of the page to propose/commit changes
+* Add to the [Community Glossary](https://github.com/rapid-research/workshop-resources/blob/main/community_glossary.md) by selecting the "pencil" edit image, add text (use markdown cheatsheet listed below), and scroll to the bottom of the page to propose/commit changes
+#### * Refer to the [Markdown Reference File](https://guides.github.com/features/mastering-markdown/) as needed
+3. References for Research Data Principles and Policies
+* [The Principles of Open Scholarly Infrastructure](http://openscholarlyinfrastructure.org/)
+* [Data Policies for Public Participation in Scientific Research: A Primer](https://old.dataone.org/sites/all/documents/DataPolicyGuide.pdf)
+* [Legal Interoperability of Research Data: Principles and Implementation Guidelines](http://www.codata.org/uploads/Legal%20Interoperability%20Principles%20and%20Implementation%20Guidelines_Final2.pdf)
 
 ## Roles
 * Moderator:
@@ -21,7 +32,7 @@ Session III, Part 1 Agenda Items | Leader | Time
 Welcome, Session II Recap, other updates | TBA | 10 mins
 Session III Objectives | TBA | 5 mins
 Decision Analytics - Follow-up with review of tool/applications | Elaine | 10 mins
-Q&A on Decision Analytics | Elaine, Jill | 20 mins
+Q&A on Decision Analytics | Elaine, Jill | 15 mins
 Break | All | 10 mins 
 
 ## Session III, Part 2: Open Data; Sensitive Data; Diversity, Equity, & Inclusion in Research
@@ -32,7 +43,7 @@ Data Sleuthing: Episode 3 | Chris | TBD
 Open Data | Chris | 10 mins
 Sensitive Data | Lea | 10 mins
 Data Q&A | Lea | 10 mins
-Diversity, Equity, & Inclusion Town Hall | TBA | 25 mins
+Diversity, Equity, & Inclusion Town Hall | TBA | 20 mins
 Break | All | 10 mins 
 
 ## Session III, Part 3: Research Networks, Wrap-Up
