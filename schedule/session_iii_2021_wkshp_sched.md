@@ -30,7 +30,6 @@
 Session III, Part 1 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | ------- 
 Welcome, Session II Recap, other updates | TBA | 10 mins
-Session III Objectives | TBA | 5 mins
 Decision Analytics - Follow-up with review of tool/applications | Elaine | 10 mins
 Q&A on Decision Analytics | Elaine, Jill | 10 mins
 
@@ -38,12 +37,12 @@ Q&A on Decision Analytics | Elaine, Jill | 10 mins
 
 Session III, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-Data Sleuthing: Episode 3 | Chris | 10 mins
+Data Sleuthing: Episode 3 | TBA Guest | 25 mins
+Q&A | TBA Guest | 5 mins
 Open Data | Chris | 10 mins
-Break | All | 15 mins
+Break | All | 20 mins
 Sensitive Data | Lea | 10 mins
-Data Q&A | Lea | 10 mins
-Diversity, Equity, & Inclusion Town Hall | Graciela | 20 mins
+Q&A/Diversity, Equity, & Inclusion Town Hall | Lea, Graciela | 15 mins
 Break | All | 10 mins 
 
 ## Session III, Part 3: Research Networks, Wrap-Up
@@ -51,8 +50,8 @@ Break | All | 10 mins
 Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
 Building a Research Coordination Network | TBA | 20 mins
-Strategies and Resources for Going Forward | TBA | 10 mins
-Happy Hour/Group Activity | TBA | 20 mins
+Strategies and Resources for Going Forward | TBA | 5 mins
+Happy Hour/Group Activity | Jill | 20 mins
 Session (Survey) Assessment | Jill | 10 mins
 
 ## Activities
