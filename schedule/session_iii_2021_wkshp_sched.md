@@ -37,8 +37,8 @@ Q&A on Decision Analytics | Elaine, Jill | 10 mins
 
 Session III, Part 2 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-Data Sleuthing: Episode 3 | TBA Guest | 25 mins
-Q&A | TBA Guest | 5 mins
+Data Sleuthing: Episode 3 | Guest Presenter: Brittany Saleeby | 25 mins
+Q&A | Brittany | 5 mins
 Open Data | Chris | 10 mins
 Break | All | 20 mins
 Sensitive Data | Lea | 10 mins
