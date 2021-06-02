@@ -31,7 +31,6 @@ Session III, Part 1 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | ------- 
 Welcome, Session II Recap, other updates | TBA | 10 mins
 Decision Analytics - Follow-up with review of tool/applications | Elaine | 10 mins
-Q&A on Decision Analytics | Elaine, Jill | 10 mins
 
 ## Session III, Part 2: Open Data; Sensitive Data; Diversity, Equity, & Inclusion in Research
 
@@ -39,24 +38,24 @@ Session III, Part 2 Agenda Items | Leader | Time
 ---------------------------------------- | --------------- | -------  
 Data Sleuthing: Episode 3 | Guest Presenter: Brittany Saleeby | 25 mins
 Q&A | Brittany | 5 mins
-Open Data | Chris | 10 mins
 Break | All | 20 mins
-Sensitive Data | Lea | 10 mins
-Q&A/Diversity, Equity, & Inclusion Town Hall | Lea, Graciela | 15 mins
+Open Data | Chris | 10 mins
+Research Data Policy | Lea | 10 mins
+Q&A | Chris/Lea | 5 mins
+Diversity, Equity, & Inclusion Town Hall | Graciela | 20 mins
 Break | All | 10 mins 
 
 ## Session III, Part 3: Research Networks, Wrap-Up
 
 Session III, Part 3 Agenda Items | Leader | Time 
 ---------------------------------------- | --------------- | -------  
-Building a Research Coordination Network | TBA | 20 mins
-Strategies and Resources for Going Forward | TBA | 5 mins
-Happy Hour/Group Activity | Jill | 20 mins
+Building a Research Coordination Network | Chris | 30 mins
+Strategies and Resources for Going Forward | TBA | 15 mins
 Session (Survey) Assessment | Jill | 10 mins
 
 ## Activities
 * Follow-up on decision analytic applications by reviewing the tool presented in Session II
-* Learn about senstive data, FAIR Data Principles, and best practices in publishing data
+* Learn about senstive data, Data Principles, and best practices in publishing data
 * Town Hall to discuss how diversity, equity, and inclusion affect their roles and how cybertools may better facilitate DEI
 * Establish a research coordination network and discuss collaboration opportunties with workshop participants
 
