@@ -2,7 +2,7 @@
 
 ## Resources to Explore before Session III (June 4th)
 1. Decision Analytics Tool - explore how you may use this tool for group decision making in your research
-* [Tool: Decision Analytics for Group Decision Making (Download as Excel file)](https://drive.google.com/file/d/19z1nQyD-tnv4bUww8SC4rYRbQhxDY0M5/view?usp=sharing)
+* [Tool: Decision Analytics for Group Decision Making (Download as Excel file)](https://drive.google.com/file/d/1ggmat9ZCjLia6oV9oREXvs9jMIdoHghf/view?usp=sharing)
 * [Instructions for using tool](https://docs.google.com/presentation/d/1UaIndG1n4_Rg4PuziA8Cp3yRgA15Jr--HqiWLIY6Go0/edit?usp=sharing)
 2. Try adding to resources and workshop definitions on GitHub:
 * Log into GitHub with your account and go to the [workshop-resources repository](https://github.com/rapid-research/workshop-resources)
