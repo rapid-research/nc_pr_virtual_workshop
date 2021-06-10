@@ -27,6 +27,13 @@ Links may point to presentations at other locations.
 - [Finding Help Flowchart (pdf)](https://drive.google.com/file/d/1iQGwdwoCNxhVWFenK81Pj_XQyg7e0WwO/view?usp=sharing)
 
 ### Session 3 Presentations (4 June 2021)
-1.
-2.
-3.
+1. [Session II Recap, Decision Analytics review (Slides)](https://docs.google.com/presentation/d/1mbJYIwWPiyf12TJIVV-66UAJK6njPeZ3vtUDF8p84OY/edit?usp=sharing)
+2. [Data Sleuthing Episode 3: North Carolina Case Study (Slides)](https://drive.google.com/file/d/1O11M76DeLvW7F-bmk-Oou4-bf5AZIlQX/view?usp=sharing)
+#### - [Video Recording](https://drive.google.com/file/d/1MmnSAi2rvLDDuRlL_JEmTmgfOwlVj7Pd/view?usp=sharing)
+4. [Part II Intro (Slides)](https://docs.google.com/presentation/d/1IwkNw7kb2zVr_uEzBQjqwvLDiQxNv3UHJTUd0DrIJAU/edit?usp=sharing)
+5. [Open Data (Slides)](https://docs.google.com/presentation/d/1P6lK1tKOqpTf-6YsUVoaIIXgm3tEl-pv9crNmJt5yLY/edit?usp=sharing)
+6. [Research Data Policy, i.e. Sensitive Data (Slides)](https://drive.google.com/file/d/1IPuzjk_5iqvDX0zZWvmN6w1T14QoQHnz/view?usp=sharing)
+7. [Diversity, Equity, & Inclusion in Research (Slides)](https://docs.google.com/presentation/d/1bTXA-650SibxABZSWXqLbxdZk7TwlzIP86o-MNuV1fY/edit?usp=sharing)
+#### - [Video Recording](https://drive.google.com/file/d/1MfAyyNJuu1Bc3iz510u71t_OgVc0ANhj/view?usp=sharing) 
+8. [Building the Network, What's Next (Slides)](https://docs.google.com/presentation/d/1-yoqgvbqqho_Nhr-BbvXOgjMDw07hvIpa4_-Cbr9wcU/edit?usp=sharing)
+#### - [Video Recording](https://drive.google.com/file/d/1ljj1cRRPjZGsmZgOwAVujoKotYQL2Ex5/view?usp=sharing) 
