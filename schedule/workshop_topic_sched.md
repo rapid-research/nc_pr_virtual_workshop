@@ -1,6 +1,4 @@
-layout: page 
-title: "Workshop Topic Schedule" 
-permalink: /nc_pr_virtual_workshopping/schedule/workshop_topic_sched/
+# Workshop Topic Schedule
 
 # Session 1
 
