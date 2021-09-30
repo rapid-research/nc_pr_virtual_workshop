@@ -12,8 +12,10 @@ Here you will find access to almost all of the relevant content for the workshop
 ### [Workshop Topics by Session](https://rapid-research.github.io/nc_pr_virtual_workshop/schedule/workshop_topic_sched.html)
 
 ### [Workshop Presentation Index](https://rapid-research.github.io/nc_pr_virtual_workshop/presentations/presentation_index.html)
-### Homework Index
-### Cybertools Index
+
+
+### Ongoing Network Interactions
+To facilitate information sharing and further network building we created a Linked in group, [Disasters and Water Quality Research Network](https://www.linkedin.com/groups/13990821/). Take a look to learn more or to join.  
 
 <p>
 <p>
