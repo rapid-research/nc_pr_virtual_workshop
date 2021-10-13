@@ -49,3 +49,6 @@ Building a Research Coordination Network | TBA
 Strategies and Resources for Going Forward | TBA
 Happy Hour/Group Activity | TBA
 Session (Survey) Assessment | Jill 
+
+
+Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to University of Washington Award 1902600 and RENCI Award 1902537
