@@ -50,5 +50,16 @@ Strategies and Resources for Going Forward | TBA
 Happy Hour/Group Activity | TBA
 Session (Survey) Assessment | Jill 
 
+# Education and Outreach Documents
+
+-[Outreach: Workshop Broadsheet - Get Your Data On](https://docs.google.com/document/d/1WSVSWu0mhwIUBR7wQrqPXikbZdIu-zzFOF2P8ektXZo/edit?usp=sharing) 
+
+-[Team Workshop Planning and Preparation Guidebook](https://docs.google.com/document/d/1uK2MCTsLGZ-heOJJruGzImg9fqzbP_Kuq4AZykjDh3I/edit?usp=sharing)
+
+-[Creating a Learning Community](https://docs.google.com/document/d/1Hb_o1O30iPqnbI-4Dqtj-cDXPAuMK2LS/edit?usp=sharing&ouid=100005130321409629424&rtpof=true&sd=true)
+
+-[Virtual Platform Options and Eval](https://docs.google.com/document/d/1EvIIGaDbynJ1zTVkyn0BhjlrKdCKA4xQmJ5OPwQ8u-M/edit?usp=sharing)
+
+
 
 *Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to __University of Washington Award 1902600 and RENCI Award 1902537__*
