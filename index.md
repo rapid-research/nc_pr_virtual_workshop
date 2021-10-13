@@ -17,13 +17,6 @@ Here you will find access to almost all of the relevant content for the workshop
 ### Ongoing Network Interactions
 To facilitate information sharing and further network building we created a Linked in group, [Disasters and Water Quality Research Network](https://www.linkedin.com/groups/13990821/). Take a look to learn more or to join.  
 
-<p>
-<p>
-<p>
-<p>
-
-
-
 
 ### Project supported by the following grants from the National Science Foundation: 
 *RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to __University of Washington Award 1902600 and RENCI Award 1902537__*
