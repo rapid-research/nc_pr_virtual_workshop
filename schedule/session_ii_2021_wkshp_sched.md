@@ -68,4 +68,4 @@ Session Assessment (Survey) | Jill | 10 mins
 * TBD
 
 
-*Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to University of Washington Award __1902600 and RENCI Award 1902537__*
+*Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to __University of Washington Award 1902600 and RENCI Award 1902537__*
