@@ -56,7 +56,7 @@ Session (Survey) Assessment | Jill
 
 -[Team Workshop Planning and Preparation Guidebook](https://docs.google.com/document/d/1uK2MCTsLGZ-heOJJruGzImg9fqzbP_Kuq4AZykjDh3I/edit?usp=sharing)
 
--[Creating a Learning Community](https://docs.google.com/document/d/1Hb_o1O30iPqnbI-4Dqtj-cDXPAuMK2LS/edit?usp=sharing&ouid=100005130321409629424&rtpof=true&sd=true)
+-[Creating a Learning Community](https://docs.google.com/document/d/1Hb_o1O30iPqnbI-4Dqtj-cDXPAuMK2LS/edit?usp=sharing&ouid=100483442120337422348&rtpof=true&sd=true)
 
 -[Virtual Platform Options and Eval](https://docs.google.com/document/d/1EvIIGaDbynJ1zTVkyn0BhjlrKdCKA4xQmJ5OPwQ8u-M/edit?usp=sharing)
 
