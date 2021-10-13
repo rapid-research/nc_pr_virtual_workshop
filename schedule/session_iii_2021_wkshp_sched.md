@@ -70,3 +70,6 @@ Who would like to join a team for a proposal to NSF?
 What are the next steps; how to rely on each other?
 Networking within disciplines
 Create an email listserv, Slack group, LinkedIn group, or Facebook group?
+
+
+Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to University of Washington Award 1902600 and RENCI Award 1902537
