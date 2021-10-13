@@ -38,3 +38,6 @@ Links may point to presentations at other locations.
 #### - [Video Recording](https://drive.google.com/file/d/1MfAyyNJuu1Bc3iz510u71t_OgVc0ANhj/view?usp=sharing) 
 8. [Building the Network, What's Next (Slides)](https://docs.google.com/presentation/d/1-yoqgvbqqho_Nhr-BbvXOgjMDw07hvIpa4_-Cbr9wcU/edit?usp=sharing)
 #### - [Video Recording](https://drive.google.com/file/d/1ljj1cRRPjZGsmZgOwAVujoKotYQL2Ex5/view?usp=sharing) 
+
+
+*Project supported by the following grants from the National Science Foundation: RAPID: Collaborative Research: Building Digital Infrastructure and Communities to Assess Risk of Drinking Water Hazards Caused by Hurricanes. NSF CBET Awards to __University of Washington Award 1902600 and RENCI Award 1902537__*
