@@ -9,4 +9,6 @@ Bandaragoda, et al. _Virtual Workshop on Data Science and Cyberinfrastructure fo
 
 We encourage the submission of pull requests directly related to this repository to incorporate corrections, update content, and/or point to additional resources.
 
+See website version for more information: https://rapid-research.github.io/nc_pr_virtual_workshop/
+
 
